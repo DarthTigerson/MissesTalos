@@ -5,3 +5,6 @@
 *.pdm-python
 *pdm.lock
 *pyproject.toml
+node_modules
+venv
+db

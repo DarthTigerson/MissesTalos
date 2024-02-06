@@ -1,0 +1,17 @@
+{
+  "name": "hermes-fork",
+  "version": "1.5.1",
+  "description": "Hermes is a FastAPI powered employee management web application.   It allows you to manage your employees, their roles, and their onboarding/offboarding status. ![Capture of Hermes](/static/img/capture.gif)",
+  "main": "main.py",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "cypress:open":"cypress open"
+  },
+  "author": "Thomas Bonnici",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.5.1"
+  }
+}
