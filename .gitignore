@@ -4,4 +4,3 @@
 *test*
 *.pdm-python
 *pdm.lock
-pyproject.toml
